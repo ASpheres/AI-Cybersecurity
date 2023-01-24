@@ -1,0 +1,4 @@
+Here is an example of an until loop that counts down from 10 to 1:
+The loop will continue to execute as long as the value of counter is greater than 0. On each iteration of the loop, the value of counter is printed to the screen and then decremented by 1 using the $((counter-1)) expression.
+
+Here is another example of an until loop that reads lines from a file and prints them to the screen until it reaches the end of the file:

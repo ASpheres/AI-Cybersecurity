@@ -1,0 +1,2 @@
+This line contains $100
+This line contains 100$
