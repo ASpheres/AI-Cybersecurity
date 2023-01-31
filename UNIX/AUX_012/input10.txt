@@ -1,0 +1,5 @@
+egrep uses regular expressions, which are a way to specify patterns of text using a combination of characters and special symbols. Regular expressions are a powerful tool for text processing and can be used to match specific patterns of text, such as words, numbers, or specific characters.
+
+Here are some examples of how you might use egrep:
+
+Search for a specific word in a file:

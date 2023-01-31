@@ -1,0 +1,9 @@
+#file.txt
+
+Name, Age, Gender, Occupation
+John, 30, Male, Engineer
+Sara, 25, Female, Doctor
+James, 35, Male, Lawyer
+Emily, 28, Female, Teacher
+David, 32, Male, Programmer
+Jessica, 27, Female, Designer
