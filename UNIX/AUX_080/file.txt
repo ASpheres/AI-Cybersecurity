@@ -1,4 +1,0 @@
-
-I am learning Shell Scripting
-It is very fun and productive
-By the end of this course, i can write a menu for your customers in shell
